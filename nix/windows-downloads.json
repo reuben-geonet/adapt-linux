@@ -1,0 +1,97 @@
+[
+  {
+    "path": "corefonts/andale32.exe",
+    "url": "https://raw.githubusercontent.com/pushcx/corefonts/8f8627b0004b5f1b952c09cf6390e4ae46475e59/andale32.exe",
+    "hash": "sha256-BST+QpUa3Dp+uHDjLwkgMTxx8XDIWbX3cNgrTuER6XA="
+  },
+  {
+    "path": "corefonts/arial32.exe",
+    "url": "https://raw.githubusercontent.com/pushcx/corefonts/8f8627b0004b5f1b952c09cf6390e4ae46475e59/arial32.exe",
+    "hash": "sha256-hSl6TRRunIesb3SCJzS97l9LKnItfqpYS38sv3b0ePY="
+  },
+  {
+    "path": "corefonts/arialb32.exe",
+    "url": "https://raw.githubusercontent.com/pushcx/corefonts/8f8627b0004b5f1b952c09cf6390e4ae46475e59/arialb32.exe",
+    "hash": "sha256-pCXw/7ahpe3luXntYXf09PT972rnwwKnt3IO8zL+wKg="
+  },
+  {
+    "path": "corefonts/comic32.exe",
+    "url": "https://raw.githubusercontent.com/pushcx/corefonts/8f8627b0004b5f1b952c09cf6390e4ae46475e59/comic32.exe",
+    "hash": "sha256-nG3z/u/eJtTkHUpP5dsqifkSOncllNf1mv0GJiXNIE4="
+  },
+  {
+    "path": "corefonts/courie32.exe",
+    "url": "https://raw.githubusercontent.com/pushcx/corefonts/8f8627b0004b5f1b952c09cf6390e4ae46475e59/courie32.exe",
+    "hash": "sha256-u1EdhhZV3eh5rlUuuGsTTW+uZ8tYUC5v9z7F2RUfM4Q="
+  },
+  {
+    "path": "corefonts/georgi32.exe",
+    "url": "https://raw.githubusercontent.com/pushcx/corefonts/8f8627b0004b5f1b952c09cf6390e4ae46475e59/georgi32.exe",
+    "hash": "sha256-LCx9zaZgbqXPCJGPt80/M1np6EM43GkAE/IM1C6TAwE="
+  },
+  {
+    "path": "corefonts/impact32.exe",
+    "url": "https://raw.githubusercontent.com/pushcx/corefonts/8f8627b0004b5f1b952c09cf6390e4ae46475e59/impact32.exe",
+    "hash": "sha256-YGHvO3QB2WQvXf218rN2qhRmP2J15gpRIHrU+s8vzPs="
+  },
+  {
+    "path": "corefonts/times32.exe",
+    "url": "https://raw.githubusercontent.com/pushcx/corefonts/8f8627b0004b5f1b952c09cf6390e4ae46475e59/times32.exe",
+    "hash": "sha256-21ZZXsbvXT3lwkmU8AHwOyoT43zuJ7wlxY9vQ+j4B6s="
+  },
+  {
+    "path": "corefonts/trebuc32.exe",
+    "url": "https://raw.githubusercontent.com/pushcx/corefonts/8f8627b0004b5f1b952c09cf6390e4ae46475e59/trebuc32.exe",
+    "hash": "sha256-WmkNm7hRC+G4tP5J8fIxllH+UbvlR3Xd3djvC9B/2sk="
+  },
+  {
+    "path": "corefonts/verdan32.exe",
+    "url": "https://raw.githubusercontent.com/pushcx/corefonts/8f8627b0004b5f1b952c09cf6390e4ae46475e59/verdan32.exe",
+    "hash": "sha256-wcthJV42MWZ5TkdmTi8hr446JstjRuuNKuL6hd1arZY="
+  },
+  {
+    "path": "corefonts/webdin32.exe",
+    "url": "https://raw.githubusercontent.com/pushcx/corefonts/8f8627b0004b5f1b952c09cf6390e4ae46475e59/webdin32.exe",
+    "hash": "sha256-ZFlbWrwQgPuoYQxcNPq1hjQI6Aaq/oRlPKhXW+0X11o="
+  },
+  {
+    "path": "d3dcompiler_47/d3dcompiler_47.dll",
+    "url": "https://raw.githubusercontent.com/mozilla/fxc2/807d26f4e4e9e9d0d0d6c1e05493b28eafb20e91/dll/d3dcompiler_47.dll",
+    "hash": "sha256-RDK70aOQh08/ClA9RcxI00arw6jAITwon0thW/DuhPM="
+  },
+  {
+    "path": "d3dcompiler_47/d3dcompiler_47_32.dll",
+    "url": "https://raw.githubusercontent.com/mozilla/fxc2/807d26f4e4e9e9d0d0d6c1e05493b28eafb20e91/dll/d3dcompiler_47_32.dll",
+    "hash": "sha256-KtDUmH/EYkVmsZDnR8nZUDhEOVbtgWq/0eLTibXsCFE="
+  },
+  {
+    "path": "dotnet40/dotNetFx40_Full_x86_x64.exe",
+    "url": "https://download.microsoft.com/download/9/5/A/95A9616B-7A37-4AF6-BC36-D6EA96C8DAAE/dotNetFx40_Full_x86_x64.exe",
+    "hash": "sha256-ZeBkJY8uQYgWswT2Rv+eh68QHkyVUqsGS7dNKBw4ZZ8="
+  },
+  {
+    "path": "dotnet48/ndp48-x86-x64-allos-enu.exe",
+    "url": "https://download.visualstudio.microsoft.com/download/pr/7afca223-55d2-470a-8edc-6a1739ae3252/abd170b4b0ec15ad0222a809b761a036/ndp48-x86-x64-allos-enu.exe",
+    "hash": "sha256-lYidbePyBwwHeQrWzyAA0z2aG9/Go4FyWrgqscMU/VM="
+  },
+  {
+    "path": "ucrtbase2019/VC_redist.x64.exe",
+    "url": "https://download.visualstudio.microsoft.com/download/pr/85d47aa9-69ae-4162-8300-e6b7e4bf3cf3/52B196BBE9016488C735E7B41805B651261FFA5D7AA86EB6A1D0095BE83687B2/VC_redist.x64.exe",
+    "hash": "sha256-UrGWu+kBZIjHNee0GAW2USYf+l16qG62odAJW+g2h7I="
+  },
+  {
+    "path": "ucrtbase2019/VC_redist.x86.exe",
+    "url": "https://download.visualstudio.microsoft.com/download/pr/85d47aa9-69ae-4162-8300-e6b7e4bf3cf3/14563755AC24A874241935EF2C22C5FCE973ACB001F99E524145113B2DC638C1/VC_redist.x86.exe",
+    "hash": "sha256-FFY3VawkqHQkGTXvLCLF/OlzrLAB+Z5SQUUROy3GOME="
+  },
+  {
+    "path": "vcrun2019/vc_redist.x64.exe",
+    "url": "https://download.visualstudio.microsoft.com/download/pr/b6c6fac1-c78c-4c3c-9461-d8e2c68ac8b4/6AFAE68A783F11292149175844AED0E2CE3F247BC0250F6CB18C931295B3F399/VC_redist.x64.exe",
+    "hash": "sha256-avrming/ESkhSRdYRK7Q4s4/JHvAJQ9ssYyTEpWz85k="
+  },
+  {
+    "path": "vcrun2019/vc_redist.x86.exe",
+    "url": "https://download.visualstudio.microsoft.com/download/pr/8a78e61f-9368-484b-b0c1-5628ff392121/38C9437E6E9EF1DB2671B3F0C879FEBEC08521BD2C23231199F626B69AE1C65E/VC_redist.x86.exe",
+    "hash": "sha256-OMlDfm6e8dsmcbPwyHn+vsCFIb0sIyMRmfYmtprhxl4="
+  }
+]

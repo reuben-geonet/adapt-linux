@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+adapt-installer.exe
+.cache/
+.local/
+evidence/
+result
+result-*
+__pycache__/
+*.pyc
